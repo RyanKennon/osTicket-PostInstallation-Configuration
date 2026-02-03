@@ -77,10 +77,10 @@ This project focuses on configuring core operational settings within the osTicke
 
 ### 2) Create Agents
 
-1. Select **Settings** then **Users** and check the box labeled **Require registration and login to create tickets**
+1. Select **Settings** then **Users** and uncheck the box labeled **Require registration and login to create tickets**
 
 <p align="center">
-  <img width="991" height="813" alt="Untitled Diagram-Page-5 drawio" src="https://github.com/user-attachments/assets/e9c7aa5d-fd22-422f-9cf5-b3b57c24c4e1" />
+  <img width="976" height="793" alt="Untitled Diagram-Page-5 drawio" src="https://github.com/user-attachments/assets/e41dc03b-b20f-446d-aca1-4e7179374283" />
 </p>
 
 2. Select **Agents** then **Add New Agent**
