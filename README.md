@@ -2,7 +2,7 @@
   <img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/daa445be-b28b-4116-8795-886f90dbb7ea" />
 </p>
 
-# osTicket: Postinstallation Configuration
+# osTicket: Post-Installation Configuration
 
 This project focuses on configuring core operational settings within the osTicket ticketing system. I set up roles, departments, and teams to define how support responsibilities are structured. I then created agents and a user to establish the internal and external participants in the ticketing workflow. Finally, I configured SLAs and help topics to standardize response expectations and categorize incoming requests. This project demonstrates essential skills in ticketing system administration, workflow organization, and service desk configuration.
 
@@ -34,6 +34,8 @@ This project focuses on configuring core operational settings within the osTicke
 
 - **Platform:** Microsoft Azure
 - **Virtual Machine:** Windows 10 Pro
+- **Required osTicket Setup:**
+  - [osTicket Prerequisites & Installation](https://github.com/RyanKennon/osTicket-Prerequisites-Installation)
 
 <p align="center">
   <img width="1818" height="592" alt="Untitled Diagram-Page-1 drawio" src="https://github.com/user-attachments/assets/5707ad74-caf1-4f74-8372-162c5ec228a1" />
