@@ -65,7 +65,7 @@ This project focuses on configuring core operational settings within the osTicke
 </p>
 
 5. Select **Departments** then **Add a New Department**
-6. Create a **SysAdmins** department
+6. Create a **SysAdmins** department and make it a **Top Level Department**
 
 <p align="center">
   <img width="978" height="507" alt="Capture5" src="https://github.com/user-attachments/assets/89e7b323-c4ce-43f4-b3e5-97c0eca4f4ea" />
