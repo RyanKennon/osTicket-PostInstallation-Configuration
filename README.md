@@ -51,31 +51,26 @@ This project focuses on configuring core operational settings within the osTicke
 </p>
 
 2. In the **admin** account open the **Admin Panel**
-3. Select the **Agent** tab then select **Roles**
-4. Then **Add a new role**
-
-<p align="center">
-  <img width="982" height="550" alt="Capture2" src="https://github.com/user-attachments/assets/7fbde273-a758-429d-b770-6aed5e4f0947" />
-</p>
-
+3. Select the **Agent** tab then select **Roles** then **Add New Role**
 4. Create a **Supreme Admin** and grant all **Permissions** and create role
 
 <p align="center">
-  <img width="984" height="566" alt="Capture3" src="https://github.com/user-attachments/assets/f3f61b50-21ba-4935-9a95-bd24d3b77dcc" />
+  <img width="984" height="566" alt="Untitled Diagram-Page-2 drawio" src="https://github.com/user-attachments/assets/aa988a99-9d9a-496b-a1ce-e4b6e7bde289" />
 </p>
 
-5. Select **Departments** then **Add a New Department**
+5. Select **Departments** then **Add New Department**
 6. Create a **SysAdmins** department and make it a **Top Level Department**
+7. Delete the **Maintenance** department
 
 <p align="center">
-  <img width="978" height="507" alt="Capture5" src="https://github.com/user-attachments/assets/89e7b323-c4ce-43f4-b3e5-97c0eca4f4ea" />
+  <img width="973" height="487" alt="Untitled Diagram-Page-3 drawio" src="https://github.com/user-attachments/assets/11c20f21-2c8f-49ff-8987-bba0772897bd" />
 </p>
 
-7. Select **Teams** then **Add a New Team**
-8. Create an **Online Banking** team
+8. Select **Teams** then **Add New Team**
+9. Create an **Online Banking** team
 
 <p align="center">
-  <img width="977" height="447" alt="Capture6" src="https://github.com/user-attachments/assets/c304ae6c-5af3-46d2-a5da-9375b0d5fbdf" />
+  <img width="977" height="447" alt="Untitled Diagram-Page-4 drawio" src="https://github.com/user-attachments/assets/22345641-3c05-4a11-9e2e-c616a6635a70" />
 </p>
 
 ---
@@ -85,10 +80,10 @@ This project focuses on configuring core operational settings within the osTicke
 1. Select **Settings** then **Users** and check the box labeled **Require registration and login to create tickets**
 
 <p align="center">
-  <img width="991" height="813" alt="Capture7" src="https://github.com/user-attachments/assets/796d7f90-a5c1-42e6-a187-99a61e1f5a57" />
+  <img width="991" height="813" alt="Untitled Diagram-Page-5 drawio" src="https://github.com/user-attachments/assets/e9c7aa5d-fd22-422f-9cf5-b3b57c24c4e1" />
 </p>
 
-2. Select **Agents** then **Add a New Agent**
+2. Select **Agents** then **Add New Agent**
 3. Create two Agents: named **Jane** and **John**
    - **Jane**
        - **Role:** Supreme Admin
@@ -96,12 +91,12 @@ This project focuses on configuring core operational settings within the osTicke
        - **Team:** Online Banking
 
     - **John**
-        - **Role:** View Only
+        - **Role:** All Access
         - **Department:** Support
         - **Team:** Leave Blank
      
 <p align="center">
-  <img width="980" height="516" alt="Capture9" src="https://github.com/user-attachments/assets/0ef4bb90-32d1-44ba-9529-2cb4bcf63972" />
+  <img width="980" height="516" alt="Untitled Diagram-Page-6 drawio" src="https://github.com/user-attachments/assets/094133a3-faef-469c-9070-ff137f575fcd" />
 </p>
 
 ---
@@ -112,7 +107,7 @@ This project focuses on configuring core operational settings within the osTicke
 2. Name the user **Karen** and fill out necessary information
 
 <p align="center">
-  <img width="976" height="462" alt="Capture10" src="https://github.com/user-attachments/assets/6ec076c1-5563-4227-bfce-79b4ea0e2bc1" />
+  <img width="976" height="462" alt="Untitled Diagram-Page-7 drawio" src="https://github.com/user-attachments/assets/dca978fd-7fff-4e8d-93c2-e8ac275f10b2" />
 </p>
 
 ---
@@ -120,7 +115,7 @@ This project focuses on configuring core operational settings within the osTicke
 ### 4) Configure SLAs and Help Topics
 
 1. Go back to the **Admin Panel** select **Manage** then **SLA**
-2. **Add a New SLA** and create 3 SLAs:
+2. **Add New SLA Plan** and create 3 SLAs:
    - **Sev-A**
      - **Grace Period:** 1 hour
      - **Schedule:** 24/7
@@ -134,10 +129,10 @@ This project focuses on configuring core operational settings within the osTicke
       - **Schedule:** 24/5
      
 <p align="center">
-  <img width="975" height="535" alt="Capture11" src="https://github.com/user-attachments/assets/86d43eb9-61ba-4039-bf92-569626ffcbaa" />
+  <img width="975" height="535" alt="Untitled Diagram-Page-8 drawio" src="https://github.com/user-attachments/assets/2c77dbc2-4a5b-487e-b785-8a3acd1a4edb" />
 </p>
 
-3. Select **Help Topics** and **Add a New Help Topic**
+3. Select **Help Topics** and **Add New Help Topic**
 4. Create 5 Help Topics
    - **Business Critical Outage**
      - **Parent Topic:** Report a Problem
@@ -155,7 +150,7 @@ This project focuses on configuring core operational settings within the osTicke
      - **Parent Topic:** General Inquiry
     
 <p align="center">
-  <img width="975" height="758" alt="Capture12" src="https://github.com/user-attachments/assets/66ccd603-9909-4e50-9a96-0598ca7ca153" />
+  <img width="975" height="758" alt="Untitled Diagram-Page-9 drawio" src="https://github.com/user-attachments/assets/4688cd46-ab70-4554-a392-5e9e46a46e5c" />
 </p>
 
 ---
